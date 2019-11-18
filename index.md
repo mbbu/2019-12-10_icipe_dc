@@ -1,19 +1,19 @@
 ---
 layout: "workshop"      # DON'T CHANGE THIS.
-venue: "**International Centre of Insect Physiology and Ecology (_icipe_)**"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "<strong>International Centre of Insect Physiology and Ecology (<i>icipe</i>)</strong>"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Hive Room, TRO Building, Duduville Campus, Nairobi"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "ke"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latitude: "-1.2214958"     # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "36.8964860"    # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "Dec 03-04, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Dec 12-13, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "09:00 hrs - 17:00 hrs"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2019-12-03      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2019-12-04        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: 2019-12-12      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2019-12-13        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Daniel Ouso", "Bianca Peterson", "Caleb Kibet"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Careen Natoire", "Gilbert Kibet"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["douso@icipe.org", "ckibet@icipe.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes: "https://pad.carpentries.org/icipe-mbbu_2019-12-03_dc-genomics"  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes: "https://pad.carpentries.org/icipe-mbbu_2019-12-12_dc-genomics"  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite: null          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
@@ -167,7 +167,7 @@ special instructions.
   you (e.g. sign-language interpreters, lactation facilities) please
   get in touch (using contact details below) and we will
   attempt to provide them. <strong>You will need to carry your national
-  identification card or passport or driving license to access _icipe_</strong>
+  identification card or passport or driving license to access <i>icipe</i></strong>
 </p>
 
 {% comment %}
@@ -300,6 +300,9 @@ please preview your site before committing, and make sure to run
 {% elsif site.carpentry == "lc" %}
 {% include lc/setup.html %}
 {% endif %}
+
+<h2><a href = "https://docs.google.com/forms/d/e/1FAIpQLScyxuJJHlW8_53tCqZJLv06Gk_11S2f8oAvhBw4S1BYGqw6Rw/viewform"> Apply</a>
+<p> Deadline for application is <strong>27-Nov-2019</strong></p>
 
 <h2>
 <center>Welcome to <a href = "https://carpentries.org/about/"> The Carpentries</a>!</center>
