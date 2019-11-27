@@ -302,7 +302,7 @@ please preview your site before committing, and make sure to run
 {% endif %}
 
 <h2><a href = "https://docs.google.com/forms/d/e/1FAIpQLScyxuJJHlW8_53tCqZJLv06Gk_11S2f8oAvhBw4S1BYGqw6Rw/viewform"> Apply</a>
-<p> Deadline for application is <strong>27-Nov-2019</strong></p>
+<p> Deadline for application is <strong>29-Nov-2019</strong></p>
 
 <h2>
 <center>Welcome to <a href = "https://carpentries.org/about/"> The Carpentries</a>!</center>
