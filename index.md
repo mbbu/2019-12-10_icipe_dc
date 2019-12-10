@@ -12,7 +12,7 @@ startdate: 2019-12-10      # machine-readable start date for the workshop in YYY
 enddate: 2019-12-11        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Daniel Ouso", "Bianca Peterson"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Caleb Kibet", "Careen Natoire", "Gilbert Kibet"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["douso@icipe.org", "ckibet@icipe.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+email: ["douso[at]icipe.org", "ckibet[at]icipe.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: "https://pad.carpentries.org/icipe-mbbu_2019-12-10_dc-genomics"  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite: null          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
